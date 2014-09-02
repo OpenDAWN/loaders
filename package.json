@@ -19,6 +19,7 @@
     "gulp-mocha": "^0.5.2",
     "mocha": "~1.17.1",
     "module-boilerplate": "git://github.com/Ircam-RnD/module-boilerplate.git#master",
+    "markdox": "git://github.com/nums/markdox.git#master",
     "node-static": "^0.7.4",
     "sinon": "~1.9.1",
     "w3c-xmlhttprequest": "git+https://github.com/Ircam-RnD/node-xmlhttprequest",
